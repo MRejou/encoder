@@ -194,7 +194,7 @@ namespace encorer
             Console.Out.WriteLine("");
             Console.Out.WriteLine("Options :");
             Console.Out.WriteLine(" -s [number or name] : specifies source encoding, default is UTF-8");
-            Console.Out.WriteLine(" -d [number or name] : specifies source encoding, default is UTF-8");
+            Console.Out.WriteLine(" -d [number or name] : specifies destination encoding, default is UTF-8");
             Console.Out.WriteLine(" -r [directory path] : directory to copy files to, if unspecified source files are simply replaced");
             Console.Out.WriteLine(" -e : lists available encodings");
             
